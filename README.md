@@ -5,7 +5,7 @@ Obsahuje zatím:
 
 ## Informace
 
-Odkaz na [Informace](./info.html)
+Odkaz na [Informace](https://pslib-cz.github.io/2021l4web-repository-skills-viktorzoubek/info.html)
 
 **změna** | **popis**
 --------- | ---------
